@@ -1,3 +1,4 @@
+
 {
   "_comment": "Mappings are city -> country code (alpha-2)",
   "abu dhabi": "ae",
@@ -484,5 +485,6 @@
   "gdansk": "pl",
   "lagrange": "us",
   "lisboa": "pt",
-  "tirunelveli": "in"
+  "tirunelveli": "in",
+  "udangudi": "in"
 }
